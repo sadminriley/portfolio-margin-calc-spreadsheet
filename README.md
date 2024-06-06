@@ -1,4 +1,4 @@
-# Margin Calculator
+# Portfolio Margin Calculator
 
 A simple Margin Calculator that outputs a CSV/Excel format when ran. This is meant to be used in a later, larger codebase of finance + market tools written using Rust. Perhaps this may give someone else some inspo to do something finance or market related in Rust.
 
