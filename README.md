@@ -1,5 +1,7 @@
 # Portfolio Margin Calculator
 
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/sadminriley/portfolio-margin-calculator/tree/main.svg?style=svg:)](https://dl.circleci.com/status-badge/redirect/gh/sadminriley/portfolio-margin-calculator/tree/main)
+
 A simple Margin Calculator that outputs a CSV/Excel format when ran. This is meant to be used in a later, larger codebase of finance + market tools written using Rust. Perhaps this may give someone else some inspo to do something finance or market related in Rust.
 
 To learn more about what Margin is and why it's used, go and visit our friends at [Investopedia](https://www.investopedia.com/terms/m/margin.asp) 
