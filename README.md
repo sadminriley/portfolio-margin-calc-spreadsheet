@@ -6,8 +6,9 @@ A simple Margin Calculator that outputs a CSV/Excel format when ran. This is mea
 
 To learn more about what Margin is and why it's used, go and visit our friends at [Investopedia](https://www.investopedia.com/terms/m/margin.asp) 
 
+## Output File
+![Screenshot 2024-06-05 at 10 49 54 PM](https://github.com/sadminriley/portfolio-margin-calculator/assets/25120457/c10a1c0c-2885-4388-ae50-0b2d78b2b016)
 
-Outputs as an Excel/Google Sheets friendly format.
 
 ## Inputs
 
